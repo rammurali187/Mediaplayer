@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="back"><![CDATA[>]]></string>
+    <string name="rewind"><![CDATA[<<]]></string>
+    <string name="forward"><![CDATA[>>]]></string>
+    <string name="pause">||</string>
+    <string name="lockscreen_transport_play_description">Playing</string>
+    <string name="lockscreen_transport_pause_description">Paused</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Invalid Playback</string>
+    <string name="VideoView_error_text_unknown">Unkown Error</string>
+    <string name="VideoView_error_button">Yes</string>
+</resources>
